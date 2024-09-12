@@ -1,0 +1,2 @@
+* Emacs Lisp snippet
+Some Emacs Lisp snippets
